@@ -1,0 +1,9 @@
+version: "3.6"
+services:
+  twitter:
+    image: twitter
+    volumes:
+      - ".:/code"
+    ports:
+      - 8888:8888
+    user: root
