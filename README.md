@@ -25,14 +25,16 @@ $ docker login
 $ sudo docker-compose up
 ```
 
-**Fourth step:** open the *jupyter notebook* file
-```
-Twitter Sentiment Analysis.ipynb
-```
+**Fifth step:** click on the following link
+![link](https://github.com/rogerioo/twitter-sentiments-analysis/blob/master/link.png)
 
-**Fifth step**: Navigate to cell option and choose the option "Run All".
+**Sixth step:** open the *jupyter notebook* file
+![file](https://github.com/rogerioo/twitter-sentiments-analysis/blob/master/file.png)
 
-If you want to stop the running container, just press Ctrl + C and wait.
+**Seventh step**: Navigate to cell option and choose the option "Run All".
+![run](https://github.com/rogerioo/twitter-sentiments-analysis/blob/master/run.png)
+
+If you want to stop the running container, just press Ctrl + C on *terminal* and wait.
 
 ---
 
